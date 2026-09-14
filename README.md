@@ -1,18 +1,42 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif ) My name is Khouloud 
+# Hi 👋, I'm Khouloud Boussaha
 
- -👩‍💻 I'm Khouloud Boussaha, a 24-year-old IT student currently pursuing engineering at ESPRIT.
- 
- -🌍  Based in Tunisia.
- 
- -✉️ Reach me at [khouloud.boussaha@esprit.tn](mailto:khouloud.boussaha@esprit.tn).
- 
--🚀 Thrilled by the world of coding, forever on the hunt for the next big tech breakthrough.
+💻 **Software Engineer | Full Stack Developer**
 
- -🧠 Currently diving deep into Angular and Spring Boot
+I'm a Software Engineer graduated from **ESPRIT Tunis**, with hands-on experience in web application development and a strong interest in building reliable and scalable software solutions.
 
- -🐎 I also have a love for equitation and enjoy spending time with horses whenever I can.
-### Skills
+### 🚀 About Me
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+* 🎓 Software Engineering graduate from ESPRIT
+* 💻 Full Stack Developer with experience in **Java, Spring Boot and Angular**
+* 🐍 Interested in backend development, web applications and software engineering
+* 🧪 Experience with testing and code quality using **JUnit, Mockito and SonarQube**
+* ⚙️ Familiar with **Docker, Jenkins and CI/CD**
+* 🌱 Always learning and improving my technical skills
+* 📍 Tunisia
+
+### 🛠️ Tech Stack
+
+**Backend:**
+Java • Spring Boot • Node.js • Express • Python
+
+**Frontend:**
+Angular • React • Vue.js • JavaScript • TypeScript
+
+**Databases:**
+PostgreSQL • MongoDB • MySQL
+
+**DevOps & Tools:**
+Docker • Jenkins • Git • SonarQube • CI/CD
+
+**Testing:**
+JUnit • Mockito
+
+### 📌 Featured Projects
+
+* 🔨 Online Auction Platform — Full Stack & Microservices
+* 📚 Exam Management System
+* 🎓 Internship Management System
+
+### 📫 Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/KhouloudBoussaha)
